@@ -21,3 +21,5 @@ Thumbs.db
 
 # Large raw scratch files (keep sample-data and project datasets)
 *.log
+*.pdf
+
