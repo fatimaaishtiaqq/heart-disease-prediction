@@ -64,7 +64,6 @@ In the real UCI Cleveland dataset, **191 out of 303 patients (63.04%)** share an
 
 ```
 heart-disease-prediction/
-├── Heart_Disease_Prediction.ipynb   # Master end-to-end executed Jupyter Notebook
 ├── app.py                           # Interactive Streamlit Web Application
 ├── heart_disease_model.pkl          # Serialized trained Support Vector Classifier
 ├── svc_trained_model.pkl            # Model alias for full backward compatibility
@@ -115,16 +114,12 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 4. Run the Jupyter Notebook
-```bash
-jupyter notebook Heart_Disease_Prediction.ipynb
-```
-
-### 5. Run the Streamlit Web Application locally
+### 4. Run the Streamlit Web Application locally
 ```bash
 streamlit run app.py
 ```
 The app will automatically open at `http://localhost:8501`.
+
 
 ---
 

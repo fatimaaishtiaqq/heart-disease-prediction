@@ -23,5 +23,7 @@ Thumbs.db
 *.log
 *.pdf
 *.zip
+*.ipynb
+
 
 
