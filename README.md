@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction System (End-to-End ML Pipeline)
+# Heart Disease Prediction System (End-to-End ML Pipeline)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heart-disease-prediction-fatima.streamlit.app/)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
